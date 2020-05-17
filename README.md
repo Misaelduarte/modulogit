@@ -1,1 +1,1 @@
-Criando nosso código usando GIT (Versionamento de código).
+Criando arquivo para módulo de GIT
